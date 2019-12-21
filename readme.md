@@ -1,5 +1,5 @@
 # Startup Messenger
-Startup Messenger is a free messenger written with NodeJs and ReactJs for your company. The current version is only a simple broadcast and supports sending multiline messages and files and shows image previews.
+Startup Messenger is a free messenger written with NodeJs and ReactJs for your company. The current version is only a simple broadcast and supports sending multi line messages and files and shows image previews.
 ## Installation
 1. You need NodeJs to be installed in your system. Download it from [here](https://nodejs.org/en/).
 2. Clone and install Startup Messenger Backend from [here](https://github.com/alirezanasseh/stmsgback).
@@ -9,7 +9,7 @@ Startup Messenger is a free messenger written with NodeJs and ReactJs for your c
 ```bash
 npm install
 ```
-2. Open "config.js" file in the root folder of the project and edit first two lines to your server IP and Port.
+2. Open "config.js" file in the "src" folder and edit first two lines to your server IP and Port.
 ```bash
 let IP = '192.168.1.27';
 let PORT = 8000;
